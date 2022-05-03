@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<!-- <svg width="28px" height="28px" viewBox="0 0 28 28" -->
+<svg width="1024" height="128" viewBox="0 0 1024 128"
+	xmlns="http://www.w3.org/2000/svg" class="icon">
+	<!-- <path d="M 904 476 H 120 c -4.4 0 -8 3.6 -8 8 v 56 c 0 4.4 3.6 8 8 8 h 784 c 4.4 0 8 -3.6 8 -8 v -56 c 0 -4.4 -3.6 -8 -8 -8 z"/> -->
+	<rect x="384" y="0" width="258" height="128" fill="rgb(0, 0, 0)"/>
+	<!-- <rect x="0" y="6" width="1024" height="2" fill="rgb(0, 255, 0)"/> -->
+</svg>
